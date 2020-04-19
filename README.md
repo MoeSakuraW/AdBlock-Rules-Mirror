@@ -60,7 +60,7 @@ An elegant way to speed up updating Ad-Block Rules.
 |  🥑 规则名称   | 🚀 加速地址  |
 |  :----:  | :----:  |
 | Adguard Simplified Domain Names Filter | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/AdGuard-Simplified-Domain-Names-Filter.txt) |
-| MalwareDomainList.com Hosts List | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/hosts.txt) |
-| EasyList | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/easylist.txt) |
-| Easylist China  | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/easylistchina.txt) |
-| EasyPrivacy | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/easyprivacy.txt) |
+| MalwareDomainList.com Hosts List | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/MalwareDomainList.com-Hosts-List.txt) |
+| EasyList | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/EasyList.txt) |
+| Easylist China  | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/EasyList-China.txt) |
+| EasyPrivacy | [加速](https://cdn.jsdelivr.net/gh/MoeSakuraW/AdBlock-Rules-Mirror/EasyPrivacy.txt) |
