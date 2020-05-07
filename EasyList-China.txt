@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: pAYwtpwQ99ED4cETrAX31Q
-! Version: 202005052353
+! Checksum: GAX8LKrquHm5ulzbz0JJ/Q
+! Version: 202005070003
 ! Title: EasyList China
 ! Chinese supplement for the EasyList filters
-! Last Modified: 05 May 2020 23:53 UTC
+! Last Modified: 07 May 2020 00:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: http://abpchina.org/forum/
 ! License: https://easylist-downloads.adblockplus.org/COPYING
@@ -1078,7 +1078,6 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
-||avtiaozhuan.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -1748,6 +1747,7 @@ ubmcmm.baidustatic.com
 ||audit8.com^
 ||auspiciousvp.com^
 ||av8d.net^$third-party
+||avtiaozhuan.com^
 ||awifi.cn^$third-party
 ||awkjs.com^
 ||axhxa.com^
@@ -4213,6 +4213,7 @@ _yad_jsonp_
 ||141h.com/data/attachment/noblock/cf/
 ||145.239.6.59/g3/
 ||14bobo.com/js/
+||159i.com/p/hola/fozrjiqolpj.php
 ||159i.com/video/pop/
 ||159i.com/video/usr/uploads/1-
 ||159i.com/video/usr/uploads/bd/$image
@@ -6753,7 +6754,7 @@ _yad_jsonp_
 ||kan98.com/images/*.gif
 ||kan98.com/statics/js/k2017/kan98.js
 ||kancloud.cn/ad/
-||kanguba.com/file/js/ifr.asp
+||kanguba.com/file/js/wwwifr.asp
 ||kanjiantu.com/images/2020/04/17/uO6sX9.gif
 ||kanjuba.me/js/bbk/
 ||kanjuwo.com/js/6
@@ -12301,6 +12302,7 @@ gg-led.com##.regg
 e-learn.cn##.region-sidebar-second > .block:nth-child(2)
 w3cplus.com##.region-sidebar-second > :nth-last-child(n+3)
 xueqiu.com##.regist-guide-container
+baidu.com##.rel-exp-feed-ad-item
 mop.com##.rel-item-gg
 pconline.com.cn##.rela-best
 mbd.baidu.com##.related-news > section:first-child + div
@@ -13730,6 +13732,7 @@ zuoye.baidu.com##dl[class="card related"]
 douban.com#?#.rec_topics:-abp-has(>.rec_topics_name[href^="https://erebor.douban."])
 ebay.com#?#li.s-item:-abp-has(span[role="text"]>span:-abp-contains(助))
 bbs.my0511.com##embed[width="970"][height="70"]
+engadget.com#?#.Py\(40px\):-abp-has(> article > .D\(f\) > .Pos\(r\)[data-ylk*=":AD;"])
 cnbeta.com##h2 > a[href^="https://active.greatroma.com"]
 ifeng.com#?#.box_list:-abp-has(.tuig)
 sina.cn##iframe[id^="sinaadtk_"]
@@ -15061,6 +15064,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||a1.0s.net.cn^
 ||a1.99933.cn^
 ||a1.99966.cn^
+||a1.aichagu.com^
 ||a1.bestopview.com^
 ||a1.bookapka.com^
 ||a1.firefoxchina.cn^
@@ -17180,6 +17184,7 @@ xuehongxs.com##DIV[id^="cs_DIV_cscpvrich"]
 ||ndusa.cn^
 ||neijh.com^
 ||nernv.com^
+||netfix8.info^
 ||netko0o.com^
 ||newknowledge.cn^
 ||nfkos.com^
