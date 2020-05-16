@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005150007
+! Version: 202005152208
 ! Title: EasyList
-! Last modified: 15 May 2020 00:07 UTC
+! Last modified: 15 May 2020 22:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30901,6 +30901,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||12cdee5830.com^
 ||14nuzznszbdp.com^
 ||1getbestf1le3.xyz^
+||1st2nd.xyz^
 ||2091995300d7.com^
 ||25348f89a3.com^
 ||273920d845b.com^
@@ -31388,6 +31389,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fingahvf.top^
 ||fishkekcamp.info^
 ||fixsirrod.site^
+||fkart.xyz^
 ||flowwiththetide.xyz^
 ||fnx2n3rqbuw7.com^
 ||fontainsuny.club^
@@ -31463,6 +31465,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hadsoks.com^
 ||haftobso.net^
 ||hamadotax.site^
+||haviouseulom.club^
 ||hayfatduh.com^
 ||haypaydig.club^
 ||healthoutabol.site^
@@ -31521,6 +31524,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jobhobfir.club^
 ||jqk72ugyl2pz.com^
 ||junmediadirect.com^
+||justickedukil.club^
 ||justookr.net^
 ||katerigordas.pro^
 ||kaukoany.net^
@@ -31534,6 +31538,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||kg8l81yh7vnf.com^
 ||kikoucuy.net^
 ||kindznnd998.xyz^
+||kinsecutiony.club^
 ||kitferdog.site^
 ||kitrigthy.com^
 ||kkqusrnaf.com^
@@ -31552,6 +31557,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||lalaping.com^
 ||lassistslegisten.info^
 ||lationwordsi.club^
+||latviancedef.site^
 ||laygunwow.com^
 ||layshyjar.com^
 ||ldevillaechildren.info^
@@ -31892,6 +31898,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ribbumuse.com^
 ||ribtopmop.com^
 ||ridgelorridorsag.info^
+||rightiescolled.club^
 ||rinedcountilconsiden.info^
 ||rintellsfundrew.info^
 ||ripslifestassoci.info^
@@ -32048,6 +32055,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||trackingzen.com^
 ||trackspeeder.com^
 ||traff6.com^
+||transardugde.club^
 ||trblocked.com^
 ||tremembersy.site^
 ||trikersuccessar.site^
@@ -32124,6 +32132,8 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||waxpigbaa.com^
 ||waynagmay.com^
 ||waysinbeg.com^
+||weaponsort.club^
+||wedneckekij.club^
 ||weegebul.net^
 ||weethery.com^
 ||weinberinaz.site^
@@ -32148,6 +32158,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wordshipopa.club^
 ||worldmapd.online^
 ||wowjogsot.com^
+||wrkl.xyz^
 ||wrongerababan.info^
 ||wvs3bmct6mkz.com^
 ||wz5y80ab60p5.com^
@@ -53607,7 +53618,7 @@ $webrtc,domain=uptobox.com
 ||swatchseries.to/main.js
 ||www*.swatchseries.to^$script
 ! Fembed
-$script,third-party,xmlhttprequest,domain=core1player.com|exvcon.com|fembed.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|sonline.pro|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com
+$script,third-party,xmlhttprequest,domain=clickopen.club|core1player.com|exvcon.com|fembed.com|fsimg.info|gaobook.review|mavplay.com|mavplayer.xyz|novelplanet.me|secfilm.xyz|sonline.pro|svpri.xyz|vaplayer.xyz|vidplayer.cz|xstreamcdn.com
 ||fembed.com/revenue
 ! Fastplay
 |http://$script,stylesheet,third-party,domain=fastplay.to
