@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202005182229
+! Version: 202005192346
 ! Title: EasyList
-! Last modified: 18 May 2020 22:29 UTC
+! Last modified: 19 May 2020 23:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31174,6 +31174,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cauthuny.net^
 ||cawsodpet.club^
 ||cconseent.info^
+||cdcz.xyz^
 ||cdn.rtclx.com^
 ||cdn4ads.com^
 ||cdnads.com^
@@ -31430,6 +31431,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fryawlauk.com^
 ||ftigholm.site^
 ||fufoatch.com^
+||fundardsesaz.club^
 ||futckgpfbgzfn.com^
 ||fuyuap.xyz^
 ||fz5akngy5o6r.com^
@@ -31478,7 +31480,9 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gr8y7z1xaq30.com^
 ||gragliapastri.info^
 ||grampouz.net^
+||granticaffodily.club^
 ||graunada.com^
+||greatmentef.club^
 ||greatvideos.xyz^
 ||grementessenti.info^
 ||grenatorkovsh.site^
@@ -31506,6 +31510,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hesterinoc.info^
 ||hgdy-hffb-ihgd-8hgf.wrkl.xyz^
 ||himselvepostly.site^
+||himselveseg.club^
 ||himselvesobr.club^
 ||hincludingse.site^
 ||histlingklakson.site^
@@ -31556,6 +31561,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||jinsoopt.net^
 ||joawapti.net^
 ||jobhobfir.club^
+||jockeryfgtu.club^
 ||jqk72ugyl2pz.com^
 ||judaisydfs.club^
 ||junmediadirect.com^
@@ -31590,6 +31596,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ladsdown.com^
 ||laichaim.net^
 ||lalaping.com^
+||lamberserer.club^
 ||lassistslegisten.info^
 ||lationwordsi.club^
 ||latviancedef.site^
@@ -31652,6 +31659,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||megmobpoi.club^
 ||mehhueboy.club^
 ||melo.space^
+||memoralegil.site^
 ||mentalbackie.site^
 ||menuladshy.life^
 ||meowpushnot.com^
@@ -31746,6 +31754,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||noglolra.com^
 ||norakseemlyntr.info^
 ||normugtog.com^
+||northeregikgf.club^
 ||northyatters.site^
 ||notification-centar.com^
 ||notifysrv.com^
@@ -31841,6 +31850,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pharougn.com^
 ||pheekrie.com^
 ||pheevoug.com^
+||phenylketh.site^
 ||phookree.com^
 ||phsism.com^
 ||pigaimhop.com^
@@ -31964,6 +31974,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rydresa.info^
 ||ryhastille.info^
 ||rywoments.info^
+||s3eds.s4d.xyz^
 ||sacaharag.club^
 ||sadorsagreeng.info^
 ||sadsecz.com^
@@ -32128,6 +32139,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||underwards.site^
 ||unlomblam.pro^
 ||unreshiramor.com^
+||untabilityde.site^
 ||untridrisa.cf^
 ||upush.co^
 ||urchrevening.info^
