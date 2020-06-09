@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006072121
+! Version: 202006090006
 ! Title: EasyList
-! Last modified: 07 Jun 2020 21:21 UTC
+! Last modified: 09 Jun 2020 00:06 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -27298,6 +27298,7 @@ _popunder+$popup
 ##.searchResultAd
 ##.searchRightBottomAds
 ##.searchRightMiddleAds
+##.searchRightTopAds
 ##.searchSponsorItem
 ##.searchSponsoredResultsBox
 ##.searchSponsoredResultsList
@@ -28445,6 +28446,7 @@ _popunder+$popup
 ##.top-sidebar-adbox
 ##.top-sponsored-header
 ##.top-story__ads
+##.top-topics__ad
 ##.top-treehouse-ad
 ##.top-wide-ad-container
 ##.top-wrapper-sponsored-fb
@@ -29883,6 +29885,7 @@ _popunder+$popup
 ##div[id^="drudge-column-ads-"]
 ##div[id^="google_ads_iframe_"]
 ##div[id^="google_dfp_"]
+##div[id^="gtm-ad-"]
 ##div[id^="lazyad-"]
 ##div[id^="proadszone-"]
 ##div[id^="q1-adset-"]
@@ -31118,6 +31121,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ataijeeg.net^
 ||atelovesinothic.info^
 ||atesbrothereso.info^
+||ationdignifica.fun^
 ||atoultou.com^
 ||atterrounesh.info^
 ||atwoventre.fun^
@@ -31242,6 +31246,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||churchasisou.site^
 ||churchasisrev.site^
 ||chystechagre.pro^
+||cialundertain.fun^
 ||cigarethalreads.fun^
 ||ciksolre.net^
 ||cjf25jklrwqt.com^
@@ -31423,6 +31428,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||eraltradiansid.info^
 ||ercredici.info^
 ||erecommerchh.info^
+||ereintroductc.fun^
 ||erkhxw.com^
 ||errnaphim.site^
 ||ersoncur.info^
@@ -31603,6 +31609,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||hooify.com^
 ||hoosorie.com^
 ||hospitecrew.club^
+||houghtdespe.fun^
 ||hounicuy.com^
 ||hourselflosu.site^
 ||housandady.site^
@@ -31884,6 +31891,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nq93jx1vpq9r.com^
 ||nqrkzcd7ixwr.com^
 ||nsoncandred.site^
+||nsonoursewit.fun^
 ||ntdvjlvau.com^
 ||nthjiglet.club^
 ||ntryhospitesoili.fun^
@@ -31919,6 +31927,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ommodatesjoin.info^
 ||omoaxaus.net^
 ||onalentressionw.info^
+||oncersshartsh.fun^
 ||onclickgenius.com^
 ||onegalact.com^
 ||onesegreativec.site^
@@ -32033,6 +32042,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||protovid.com^
 ||provisituske.site^
 ||pryrhoohs.site^
+||psedfenedc.fun^
 ||psoaksoo.com^
 ||psoanouy.net^
 ||psonstrentie.info^
@@ -32073,6 +32083,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||realtime-bid.com^
 ||reasonalattracke.info^
 ||reckedmane.club^
+||recommerdal.club^
 ||recruisefukiby.club^
 ||redads.biz^
 ||redappeneticfr.info^
@@ -32154,6 +32165,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sdkfjxjertertry.com^
 ||seaboblit.com^
 ||searchmulty.com^
+||seasonssna.fun^
 ||securecloud-dt.com^
 ||secured-iphone.club^
 ||secured-phone.club^
@@ -64134,6 +64146,7 @@ issuu.com##div[class*="adLeaderboardContainer"]
 yahoo.com##div[class*="ads-"]
 thewirecutter.com,utorrent.com##div[class*="callout"]
 lonelyplanet.com##div[class*="templateAreaAdSuperzone"]
+wccftech.com##div[class="banner-ad"] + div[class] > div[class]
 tampermonkey.net##div[class][data-width]
 bulletsfirst.net##div[class][style^="display:"]
 apnews.com##div[class^="Component-adTitle-"]
@@ -64872,6 +64885,7 @@ amazon.com##h5[data-alt-pixel-url^="/gp/sponsored-products/"]
 amazon.com##h5[data-alt-pixel-url^="/gp/sponsored-products/"] + div + .a-row
 indowebster.com##h6.size_1
 sketchucation.com##h6[style^="width:766px;height:88px;"]
+wccftech.com##header + div[class] > div[class]
 deadline.com##header > .header-ad-mobile + *
 forums.eteknix.com##hgroup[style="width:728px; margin:10px auto; height:90px;"]
 discovermagazine.com##hr[size="1"]
