@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006152333
+! Version: 202006162325
 ! Title: EasyList
-! Last modified: 15 Jun 2020 23:33 UTC
+! Last modified: 16 Jun 2020 23:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9532,6 +9532,9 @@ _popunder+$popup
 ###HomeAd1
 ###HomeBannerAd
 ###Home_AdSpan
+###HomepageAd1
+###HomepageAd2
+###HomepageAd3
 ###HomepageAdSpace
 ###HorizontalAd
 ###HouseAd
@@ -21877,6 +21880,7 @@ _popunder+$popup
 ##.advert--mpu
 ##.advert--mpu--rhs
 ##.advert--placeholder
+##.advert--right-rail
 ##.advert--transition
 ##.advert--vc
 ##.advert--vc__wrapper
@@ -30617,7 +30621,7 @@ shopmos.net#@#.ads_top
 quebarato.com.br,search.conduit.com#@#.ads_wrapper
 alluc.org#@#.adsbottombox
 imagebam.com#@#.adsbox
-advancedrenamer.com,epicbundle.com,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
+advancedrenamer.com,epicbundle.com,korail.pe.kr,phcorner.net,willyoupressthebutton.com#@#.adsbygoogle
 copart.com#@#.adscontainer
 starbike.com#@#.adsense_wrapper
 live365.com#@#.adshome
@@ -31442,6 +31446,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||edencourtbrita.info^
 ||edhappearer.info^
 ||edmarketts.fun^
+||edmotherew.fun^
 ||edoutoam.net^
 ||edspicuousind.site^
 ||edvforeveretest.info^
@@ -31613,6 +31618,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||gdmconvtrck.com^
 ||gebadu.com^
 ||gebralefukim.site^
+||gedcompani.fun^
 ||gedmhqqipuz6wfon.pro^
 ||gedspecificano.info^
 ||geepwnfly.club^
@@ -31669,6 +31675,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||halleyperson.pro^
 ||hamadotax.site^
 ||hapogzu9a19m5fhe56pb.pro^
+||haracticdag.fun^
 ||harriscote.pro^
 ||haviouseulom.club^
 ||hayfatduh.com^
@@ -31787,6 +31794,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||krenovo.online^
 ||kudzuphloemgunk.tech^
 ||kumanaun.net^
+||l2wisd9g5d9u.com^
 ||la1dwne9cn5c.com^
 ||labortiontrifee.info^
 ||ladsabz.com^
@@ -31862,6 +31870,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||martafatass.pro^
 ||martyappear.pro^
 ||marwinhitted.site^
+||matekernes.fun^
 ||mattempts.info^
 ||mauzobou.net^
 ||mbethnarrowe.info^
@@ -31881,6 +31890,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||meowpushnot.com^
 ||mercialtaver.club^
 ||merciselyancies.site^
+||meriesbefor.fun^
 ||meryjane.pro^
 ||methingewsf.club^
 ||metricfast.com^
@@ -32060,6 +32070,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||osmondards.pro^
 ||otentieschoo.site^
 ||othesarialiber.club^
+||othyightmare.club^
 ||otsurvedchange.info^
 ||oughgoalityabo.info^
 ||oukreesy.net^
@@ -32180,6 +32191,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||pushsar.com^
 ||pushworldtool.com^
 ||pyjamaican.club^
+||pz7zrn0xxgyg.com^
 ||q6idnawboy7g.com^
 ||qmvezbh0l28w.com^
 ||qnwjhpingotrmc.com^
@@ -32249,6 +32261,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rintellsfundrew.info^
 ||ripslifestassoci.info^
 ||riptukri.net^
+||ritiesagently.fun^
 ||rizeintellingente.info^
 ||rj2ro1x3j4ht.com^
 ||rndrx0rqwkb8.com^
@@ -32289,6 +32302,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sapsixysho.pro^
 ||sarydrinkletr.site^
 ||saturalerdax.site^
+||saturalolk.club^
 ||saumooly.net^
 ||sbc7wfnaakau.com^
 ||sbroughhig.info^
@@ -32384,6 +32398,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||substandferex.site^
 ||successageq.site^
 ||successarysazh.site^
+||sufferench.club^
 ||suggestvideos.xyz^
 ||suitarserviku.site^
 ||sultiyearsena.site^
@@ -55850,7 +55865,7 @@ nykdaily.com##.adsbygoogle
 karger.com##.adv
 healthleadersmedia.com##.adv-con
 gsmarena.com##.adv-mid
-fruitnet.com,iol.co.za##.advert
+economist.com,fruitnet.com,iol.co.za##.advert
 thechive.com##.advertisement
 lifebuzz.com##.adwrapper
 fandom.com##.aff-unit__wrapper
@@ -55908,6 +55923,7 @@ zdnet.com##.content-leaderboard-top
 zdnet.com##.content-mpu-bottom
 zdnet.com##.content-mpu-middle
 zdnet.com##.content-mpu-top
+physicsworld.com##.corporate-partners
 insider.com##.coupons-link
 troypoint.com##.cp-subscriber-newsletter
 dailywire.com##.css-99f077.e1rizci20
@@ -55956,6 +55972,7 @@ kawanfilm21.pro##.idmuvi-topbanner
 kawanfilm21.pro##.idmuvi-topbanner-aftermenu
 kawanfilm21.pro##.idmuvi-topplayer
 theloadout.com##.inlinerail
+physicsworld.com##.iopp-sidebar
 seedpeer.me##.is-success
 seedpeer.me##.is-warning
 itweb.co.za##.itw-content-zone
@@ -56055,6 +56072,7 @@ vidup.io##.vjs-overlay-background
 telegraph.co.uk##.voucher-code
 windowsreport.com##.w-report-affiliate
 yahoo.com##.wafer-beacon
+wccftech.com##.wccf-products
 wplift.com##.widget_bsa
 windowsloop.com##.wl-prakatana
 jatan.blog##.wpa
@@ -56110,7 +56128,7 @@ mirrorace.com##a[href^="https://speedtest.apkelite.com/"]
 esportsheaven.com##a[href^="https://tilt.heavenmedia.com/"]
 thinkmobiles.com##a[href^="https://track.wg-aff.com/"]
 searchenginejournal.com##a[href^="https://www.adzooma.com/"]
-avclub.com,deadspin.com,dealerservicecenter.in,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,powerlineblog.com,theroot.com,thetakeout.com##a[href^="https://www.amazon."][href*="tag="]
+avclub.com,deadspin.com,dealerservicecenter.in,gizmodo.com,jalopnik.com,jezebel.com,kotaku.com,lifehacker.com,powerlineblog.com,theroot.com,thetakeout.com,wccftech.com##a[href^="https://www.amazon."][href*="tag="]
 thepiratebay.org##a[href^="https://www.azirevpn.com/"]
 sociologyguide.com##a[href^="https://www.baghvillas.com/"]
 indusladies.com##a[href^="https://www.codewizardshq.com/?utm_"]
