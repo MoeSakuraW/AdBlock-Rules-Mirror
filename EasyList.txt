@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202006232337
+! Version: 202006250015
 ! Title: EasyList
-! Last modified: 23 Jun 2020 23:37 UTC
+! Last modified: 25 Jun 2020 00:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6944,6 +6944,7 @@
 /TrafficHaus/*
 /trafficsynergysupportresponse_
 /transad.
+/TravelAdPageView?
 /travidia/*
 /tremoradrenderer.
 /trendad.
@@ -31760,6 +31761,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||herbaijansob.club^
 ||heredeithere.club^
 ||hesterinoc.info^
+||hethelcontai.fun^
 ||himselvepostly.site^
 ||himselveseg.club^
 ||himselvesobr.club^
@@ -32436,6 +32438,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||secured-iphone.club^
 ||secured-phone.club^
 ||seepsocu.net^
+||senrecomines.fun^
 ||separenujilo.club^
 ||seriencern.club^
 ||seriodilov.club^
@@ -32591,6 +32594,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tonewithough.info^
 ||topbetfast.com^
 ||topblockchainsolutions.nl^
+||topperyregard.fun^
 ||torbudyum.com^
 ||torytalenty.site^
 ||totogetica.com^
@@ -49628,6 +49632,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||api.140proof.com^$third-party
 ||api.bitp.it^$third-party
 ||api.ticketnetwork.com/Events/TopSelling/domain=nytimes.com
+||apihotels.net/onestream/events/
 ||apkmaza.net/wp-content/uploads/$third-party
 ||apnonline.com.au/img/marketplace/*_ct50x50.gif
 ||appdevsecrets.com/images/nuts/
@@ -51050,6 +51055,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tribwgnam.files.wordpress.com^*reskin2.
 ||tripadvisor.com/WidgetEmbed-*&partnerId=$domain=rbth.co.uk|rbth.com
 ||trivago.co.uk/uk/srv/$third-party
+||trvl-px.com/trvl-px/$third-party
 ||tshirthell.com/img/affiliate_section/$third-party
 ||ttgtmedia.com/Marketing/
 ||ttt.co.uk/TMConverter/$third-party
@@ -67017,6 +67023,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||aolcdn.com^*/adhads.css$domain=aol.com
 @@||aolcdn.com^*/adsWrapper.$domain=aol.com|engadget.com|mapquest.com
 @@||aone-soft.com/style/images/ad*.jpg
+@@||api.adinplay.com^*/tag.min.js$script,domain=findcat.io|squadd.io
 @@||api.cirqle.nl^*&advertiserId=$script,xmlhttprequest
 @@||api.paymentwall.com^$domain=adguard.com
 @@||apmebf.com/ad/$domain=betfair.com
