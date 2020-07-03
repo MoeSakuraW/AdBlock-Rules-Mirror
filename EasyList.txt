@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007012236
+! Version: 202007030008
 ! Title: EasyList
-! Last modified: 01 Jul 2020 22:36 UTC
+! Last modified: 03 Jul 2020 00:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -22263,6 +22263,7 @@ _popunder+$popup
 ##.advertisements_contain
 ##.advertisementsubtitle
 ##.advertiser
+##.advertiser-disclosure-banner
 ##.advertiser-links
 ##.advertisesingle
 ##.advertisespace_div
@@ -31142,6 +31143,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||amerallyluke.club^
 ||amesgraduatel.site^
 ||ammankeyan.com^
+||amountant.club^
 ||ampallall.site^
 ||ampleteexis.info^
 ||ampugi334f.com^
@@ -31192,6 +31194,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||asoulrox.com^
 ||aspartbib.site^
 ||aspaskaim.club^
+||assionwreckl.top^
 ||assiumyikg.club^
 ||assumineuron.site^
 ||ataijeeg.net^
@@ -31388,6 +31391,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||compensions.pro^
 ||concentleconse.site^
 ||concertainwqa.club^
+||condindered.club^
 ||congregorysun.site^
 ||conjeller-chikemon.com^
 ||consesculifin.site^
@@ -31410,6 +31414,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cpcmart.com^
 ||creathere.club^
 ||creativetv.pro^
+||cretaiformac.top^
 ||crimentasaju.site^
 ||criminglynuk.pro^
 ||crocopop.com^
@@ -31579,6 +31584,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||enoxidewo.fun^
 ||enseptedsome.info^
 ||entcommanda.fun^
+||entiethmenti.top^
 ||entineffieldsta.site^
 ||entstronicsform.info^
 ||entualagreetsd.info^
@@ -31962,6 +31968,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||libanyelm.com^
 ||librarierserty.site^
 ||lichtpass.com^
+||licitventiethv.top^
 ||liketube.xyz^
 ||limitagesdidjet.site^
 ||lindencarry.pro^
@@ -32737,6 +32744,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||urchrevening.info^
 ||urdercomp.space^
 ||uremechangec.info^
+||ureticrelingse.top^
 ||urgwritishimpos.info^
 ||urimteku.com^
 ||url.rw^
@@ -32841,6 +32849,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wvs3bmct6mkz.com^
 ||wz5y80ab60p5.com^
 ||x9b05t5jsqje.com^
+||xauthorous.club^
 ||xcvgdf.party^
 ||xebadu.com^
 ||xineday.com^
@@ -32856,6 +32865,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||xyz0k4gfs.xyz^
 ||yanderthundr.fun^
 ||yawsupvie.site^
+||ycorsementh.top^
 ||ydrinkletremem.site^
 ||yeaonesad.com^
 ||yellorsanarolik.site^
@@ -52534,6 +52544,10 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||wapinda.in/images/downloadvideo.jpg
 ||watoday.com.au/assets/europa.
 ||wccftech.com/wp-content/uploads/2020/05/nQAFHYZIydOGnIAKwmuY.jpg
+||wccftech.com/wp-content/uploads/2020/07/1asflkasjhf.jpg
+||wccftech.com/wp-content/uploads/2020/07/2asgfkhasf.jpg
+||wccftech.com/wp-content/uploads/2020/07/3asfgsaf.jpg
+||wccftech.com/wp-content/uploads/2020/07/4pasofopf.jpg
 ||wcostream.com/tnc/$image,script
 ||weather.com/weather/assets/120.$script
 ||web.tmearn.com^
