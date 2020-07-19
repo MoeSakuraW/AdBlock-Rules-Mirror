@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007180012
+! Version: 202007190019
 ! Title: EasyPrivacy
-! Last modified: 18 Jul 2020 00:12 UTC
+! Last modified: 19 Jul 2020 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8774,6 +8774,7 @@ _mongo_stats/
 ||thirdrespect.com^$third-party
 ||thirstytwig.com^$third-party
 ||ticklesign.com^$third-party
+||toecircle.com^$third-party
 ||tranquilside.com^$third-party
 ||troubledtail.com^$third-party
 ||typicalairplane.com^$third-party
@@ -14185,6 +14186,7 @@ _mongo_stats/
 ||oms.expedia.com^
 ||onetravel.com/TrackOnetravelAds.js
 ||online.citi.com^*/fp.min.js
+||onlyfans.com^*/stats-collect?
 ||oodle.co.uk/event/track-first-view/
 ||oodle.com/js/suntracking.js
 ||open.mkt1397.com^

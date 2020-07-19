@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202007180012
+! Version: 202007190019
 ! Title: EasyList
-! Last modified: 18 Jul 2020 00:12 UTC
+! Last modified: 19 Jul 2020 00:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -21656,6 +21656,7 @@ _popunder+$popup
 ##.adunit-side
 ##.adunit-title
 ##.adunit-wrap
+##.adunit-wrapper
 ##.adunit125
 ##.adunit160
 ##.adunit300x250
@@ -31237,6 +31238,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||arisonoping.club^
 ||arketscolourse.site^
 ||armashair.site^
+||armatchints.info^
 ||arnessaudie.site^
 ||arningexpos.top^
 ||arnockglen.club^
@@ -31329,6 +31331,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||behavingsali.club^
 ||beiven.pw^
 ||belgradualuna.site^
+||bernationa.club^
 ||berningbegi.club^
 ||bersmanatomic.site^
 ||besiasmere.site^
@@ -31449,6 +31452,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||cjf25jklrwqt.com^
 ||cjlqwfpkwi.com^
 ||ckardwithinktab.info^
+||cklecreditie.info^
 ||clarizonsimp.top^
 ||clcassd.com^
 ||clcknads.pro^
@@ -31476,6 +31480,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||communited.club^
 ||companiedoml.site^
 ||comparencelabl.site^
+||compensess.club^
 ||compensions.pro^
 ||complified.club^
 ||concentleconse.site^
@@ -31717,6 +31722,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ernettesew.club^
 ||erosyndc.com^
 ||errnaphim.site^
+||ersfeaturall.info^
 ||ersoncur.info^
 ||ertainstreated.fun^
 ||erversarycompa.info^
@@ -32289,6 +32295,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||natorpression.fun^
 ||nbasicalbuffere.info^
 ||nbf9b5aurl.com^
+||ncedagricul.info^
 ||ncefoundanges.info^
 ||ncialappropo.site^
 ||ncountsnash.info^
@@ -32362,6 +32369,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ntryhospitesoili.fun^
 ||ntsartingaccura.info^
 ||ntsimprovide.info^
+||ntsparallycalc.info^
 ||null-point.com^
 ||nupoot.com^
 ||nvironymscli.info^
@@ -32712,6 +32720,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||s1t2uuenhsfs.com^
 ||s4d.xyz^
 ||sacaharag.club^
+||saccomplex.info^
 ||sadorsagreeng.info^
 ||sadsecz.com^
 ||sainstandset.site^
@@ -33153,6 +33162,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yeuropertsp.site^
 ||yg592gpmrh0q.com^
 ||yinsterkneeline.info^
+||yirishedspe.info^
 ||yonashbin.com^
 ||yonatefin.site^
 ||youearrid.com^
@@ -56008,6 +56018,7 @@ weather.com##div[id^="Taboola-main-"]
 kisshentai.net##div[id^="ad"]
 thewrap.com##div[id^="dsk-box-ad"]
 gamepedia.com##div[id^="siderail_"]
+dexerto.com##div[id^="topLeaderboardContainerWaterfall-"]
 add0n.com##div[style="min-height:90px;max-width:728px;text-align:center"]
 indusladies.com##div[style="padding:5%;margin-left:30%;"]
 theweathernetwork.com##div[style="width:300px;height:600px; margin-bottom: 15px;"]
@@ -58884,7 +58895,7 @@ nag.co.za###text-60
 amren.com,bharatmarg.com,buddyhead.com,defsounds.com,knowelty.com,prosnookerblog.com,technomag.co.zw###text-7
 consortiumnews.com,couponistaqueen.com,localvictory.com,michiganmessenger.com,ncr1037.co.za,newsday.co.zw,technomag.co.zw,vgleaks.com###text-8
 vanguardngr.com###text-87
-africaports.co.za,cnx-software.com,mynokiablog.com###text-9
+africaports.co.za,mynokiablog.com###text-9
 androidauthority.com###text-92
 torontolife.com###text-links
 hemmings.com###text_links
@@ -59487,6 +59498,7 @@ legacy.com##.aa_Table
 androidauthority.com##.aa_button_wrapper
 androidauthority.com##.aa_desktop
 androidauthority.com##.aa_intcont_300x250
+cnx-software.com##.aaltern-single
 smarteranalyst.com##.ab-tested-trading-center
 pcgamesn.com##.ab_mp
 imdb.com##.ab_zergnet
@@ -60948,7 +60960,6 @@ chrisbrownworld.com,myplay.com##.fwas300x250
 masterworksbroadway.com##.fwas728x90_top
 thelakewoodscoop.com##.g-col > a
 nofilmschool.com##.g-leader
-cnx-software.com##.g-single
 prokerala.com##.gAS_468x60
 titantv.com##.gAd
 about.com##.gB
@@ -60969,6 +60980,7 @@ inserbia.info##.gads250
 telegraph.co.uk##.gafs
 behance.net##.gallery-sponsor
 citywire.co.uk##.gallerySponsor
+cnx-software.com##.galtern
 pcper.com,thedrum.co.uk,thefix.com,tribalfootball.com##.gam-holder
 9news.com,bloomberg.com,courier-journal.com,theleafchronicle.com,thestarpress.com,usaweekend.com##.gam_wrapper
 addictinggames.com##.gameHeaderSponsor
@@ -65708,7 +65720,6 @@ baltimoresun.com,boston.com,calgaryherald.com,capitalgazette.com,carrollcountyti
 baltimoresun.com,boston.com,calgaryherald.com,capitalgazette.com,carrollcountytimes.com,chicagotribune.com,citypaper.com,courant.com,dailymail.co.uk,dailypress.com,edmontonjournal.com,edmunds.com,financialpost.com,gofugyourself.com,hearthhead.com,huffingtonpost.co.uk,ign.com,infinitiev.com,last.fm,latimes.com,leaderpost.com,lolking.net,mcall.com,metacritic.com,montrealgazette.com,nasdaq.com,nationalpost.com,newsarama.com,orlandosentinel.com,ottawacitizen.com,pcmag.com,ranker.com,sandiegouniontribune.com,saveur.com,sherdog.com,spin.com,stereogum.com,sun-sentinel.com,theprovince.com,thestarphoenix.com,tmn.today,tomshardware.co.uk,tomshardware.com,torontosun.com,trustedreviews.com,twincities.com,vancouversun.com,vibe.com,windsorstar.com,wowhead.com##.trc-content-sponsoredUB
 realfarmacy.com##.trc_rbox_container
 freep.com##.tsfrm-sponsor-logo-content
-mirrorace.com##.uk-button-secondary
 mirrorace.com##.uk-margin-bottom
 mingle2.com##.user_profile_ads
 courier-journal.com##.util-bar-module-share
