@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202008280928
+! Version: 202008300001
 ! Title: EasyList
-! Last modified: 28 Aug 2020 09:28 UTC
+! Last modified: 30 Aug 2020 00:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1188,6 +1188,7 @@
 /ad/google/*
 /ad/google_
 /ad/guest/*
+/ad/headercreative/*
 /ad/homepage?
 /ad/html/*
 /ad/iframe.
@@ -15199,6 +15200,7 @@ _popunder+$popup
 ###js-ad-billboard
 ###js-ad-leaderboard
 ###js-adslot-300x250-storyrec
+###js-bottom-ad-320x250
 ###js-image-ad-mpu
 ###js-page-ad-top
 ###js-react-video-player-ad-right
@@ -15588,6 +15590,7 @@ _popunder+$popup
 ###mobile-ads-ad
 ###mobile-ads-link
 ###mobile-sticky-ad-area
+###mobileAdContainer
 ###mobileAd_holder
 ###mobile_ad_spot_header
 ###mochila-column-right-ad-300x250
@@ -18341,6 +18344,7 @@ _popunder+$popup
 ##.ad-anchor
 ##.ad-aps-wide
 ##.ad-area
+##.ad-area--pd
 ##.ad-area-small
 ##.ad-article-breaker
 ##.ad-article-wrapper
@@ -18588,6 +18592,7 @@ _popunder+$popup
 ##.ad-header
 ##.ad-header-below
 ##.ad-header-container
+##.ad-header-creative
 ##.ad-header-pencil
 ##.ad-header-sidebar
 ##.ad-heading
@@ -22059,6 +22064,8 @@ _popunder+$popup
 ##.advert-wrap2
 ##.advert-wrapper
 ##.advert-wrapper_rectangle_aside
+##.advert.mpu
+##.advert.skyscraper
 ##.advert1
 ##.advert120
 ##.advert1Banner
@@ -23492,6 +23499,8 @@ _popunder+$popup
 ##.bz-ad
 ##.bzads-ic-ad-300-250-600
 ##.c-ad
+##.c-ad--mobile-bigbanner
+##.c-ad--rectangle
 ##.c-ad--text-only
 ##.c-ad--unlabeled
 ##.c-ad-size2
@@ -23502,6 +23511,7 @@ _popunder+$popup
 ##.c-adunit--first
 ##.c-adunit__container
 ##.c-adv3__inner
+##.c-advert
 ##.c-advert-app
 ##.c-advert-superbanner
 ##.c-advertisement
@@ -24395,6 +24405,7 @@ _popunder+$popup
 ##.flashadd
 ##.flex-ad
 ##.flexAd
+##.flexContentAd
 ##.flexad
 ##.flexadvert
 ##.flexbanneritemad
@@ -27133,6 +27144,7 @@ _popunder+$popup
 ##.removeAdsLink
 ##.removeAdsStyle
 ##.reportAdLink
+##.res_ad
 ##.resads-adspot
 ##.residentialads
 ##.resourceImagetAd
@@ -30672,7 +30684,7 @@ asterisk.org,ifokus.se#@#.ad-sidebar
 wegotads.co.za#@#.ad-source
 10tv.com#@#.ad-square
 speedtest.net#@#.ad-stack
-jobmail.co.za,junkmail.co.za,version2.dk#@#.ad-text
+isewanferry.co.jp,jobmail.co.za,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,version2.dk#@#.ad-text
 buccaneers.com,dallascowboys.com,jaguars.com,kcchiefs.com,liveside.net,neworleanssaints.com,patriots.com,philadelphiaeagles.com,seahawks.com,steelers.com,sulekha.com,vikings.com#@#.ad-top
 etonline.com,fool.com,interscope.com#@#.ad-unit
 billboard.com#@#.ad-unit-300-wrapper
@@ -30901,7 +30913,7 @@ davidsilverspares.co.uk#@#.greyAd
 komando.com#@#.grid-item-ad
 forums.digitalspy.com,marketwatch.com,waer.org#@#.has-ad
 minecraftforge.net#@#.hasads
-adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
+adexchanger.com,assetbar.com,burningangel.com,donthatethegeek.com,drunkenstepfather.com,intomobile.com,minkch.com,poderpda.com,politicususa.com,seattlepi.com,sfgate.com,startingstrongman.com,thenationonlineng.net,thinkcomputers.org,wccftech.com,wholelifestylenutrition.com#@#.header-ad
 greenbayphoenix.com,photobucket.com#@#.headerAd
 dailytimes.com.pk,swns.com#@#.header_ad
 associatedcontent.com#@#.header_ad_center
@@ -31139,6 +31151,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ! *** easylist:easylist/easylist_adservers.txt ***
 ! Non-flagged (Revolving ad servers)
 ||01dbf3a452b6.com^
+||04f89f867c5d.com^
 ||050y9lhe8p.com^
 ||05xz0h2xo799.com^
 ||0aa89ur58y.top^
@@ -31161,6 +31174,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||1rkcd8exld.monster^
 ||1rm.xyz^
 ||1st2nd.xyz^
+||1ts03.top^
 ||1uejo00npy.buzz^
 ||1ulebzhsv7.buzz^
 ||233fb5b59351.com^
@@ -31229,6 +31243,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||5yw028ngxe9x.com^
 ||63fut3uw0b.xyz^
 ||63r2vxacp0pr.com^
+||642fa8b172.com^
 ||645yvcj6c8rn.com^
 ||65125672a6fa0.com^
 ||6942f24115b63.com^
@@ -31393,6 +31408,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||allyopenetic.info^
 ||almetasteyu.info^
 ||aloissentence.pro^
+||alruqbfjg.com^
 ||althoutafrick.info^
 ||alwsbnvialll.com^
 ||alxsite.com^
@@ -31499,6 +31515,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||atictrementint.club^
 ||ationdignifica.fun^
 ||atoultou.com^
+||attacketsun.space^
 ||atterrounesh.info^
 ||attresswhethe.fun^
 ||atwoventre.fun^
@@ -31643,6 +31660,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||brinarynuker.site^
 ||briticatederfd.site^
 ||briticsvocabin.club^
+||broughlystra.club^
 ||btemegxbnalq.com^
 ||buglethemfouls.casa^
 ||buildhoodpip.club^
@@ -31937,6 +31955,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||dewincubiatoll.com^
 ||dexchangeinc.com^
 ||dexpredict.com^
+||dfbea136bea.com^
 ||dfgbalon.com^
 ||dgafgadsgkjg.top^
 ||dhappeasesem.site^
@@ -32259,6 +32278,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||fimpromote.club^
 ||findicaterperty.site^
 ||fingahvf.top^
+||fingsmelis.pro^
 ||finized.co^
 ||firewoodnativewoodlands.com^
 ||fireworkssetstill.com^
@@ -32411,6 +32431,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||grumpult.com^
 ||gsfillegesga.club^
 ||gstralpolita.info^
+||gtenormous.club^
 ||gueselambe.club^
 ||h-l.icu^
 ||h-l.xyz^
@@ -32725,6 +32746,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||loamauji.com^
 ||loaphour.com^
 ||locationivanstutter.com^
+||lockingessay.com^
 ||locothet.com^
 ||loftygreater.com^
 ||lolsefti.com^
@@ -33007,6 +33029,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||nraddramatica.club^
 ||nscollectureob.info^
 ||nsecretaflicti.info^
+||nsfercuritydi.club^
 ||nsofasstroy.info^
 ||nsoncandred.site^
 ||nsonoursewit.fun^
@@ -33391,6 +33414,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||recommerdal.club^
 ||recruisefukiby.club^
 ||redads.biz^
+||redambula.club^
 ||redappeneticfr.info^
 ||redewdit.pro^
 ||redirect2719.ws^
@@ -33470,6 +33494,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||rityalthoutei.club^
 ||rizeintellingente.info^
 ||rj2ro1x3j4ht.com^
+||rlyquantialarties.club^
 ||rmedessents.club^
 ||rmqygg2zv24y.com^
 ||rndrx0rqwkb8.com^
@@ -33642,6 +33667,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||sitirkbit.com^
 ||sixtuxfixer.com^
 ||sjscxhknxeek.com^
+||skullimpact.com^
 ||slectrumclarat.fun^
 ||sloeri.com^
 ||slykeyhot.site^
@@ -33693,6 +33719,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||ssqualismother.info^
 ||staimpor.net^
 ||staitchu.com^
+||stakenallisin.club^
 ||stakenpolise.site^
 ||stardedbio.club^
 ||stargoug.com^
@@ -33832,6 +33859,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||tiveacquisitsprett.info^
 ||tj9pcnb2ws.com^
 ||tjzetzjqodjj.com^
+||tlocatering.club^
 ||tme2wrwzz3wh.com^
 ||toapsira.net^
 ||toeapesob.com^
@@ -34029,6 +34057,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||voterialijikol.site^
 ||vqr3jeu1qi41.com^
 ||vsu2jbpvgx3m.com^
+||vznntmjdb.com^
 ||w00ur5z9jy3a.com^
 ||wacucmiy.net^
 ||wadsotch.com^
@@ -49342,6 +49371,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||justanswer.com^$third-party
 ||justclicktowatch.to/jstp.js
 ||jvzoo.com/assets/widget/$third-party
+||jwpcdn.com/player/*/bidding.js
 ||jwpcdn.com/player/plugins/bidding/$script
 ||jwpcdn.com/player/plugins/googima/$script
 ||k-po.com/img/ebay.png$third-party
@@ -51526,6 +51556,7 @@ coingamez.com,mangaumaru.com,milfzr.com,pencurimovie.cc#@#div[id^="div-gpt-ad"]
 ||yimg.com/rq/darla/$domain=tumblr.com|yahoo.com
 ||yimg.com/uu/api/*/ads/$domain=yahoo.com
 ||ynet.co.il/gpt/
+||youtube-video.download/y-vd.php
 ||youtube.com/ad_companion
 ||youtube.com/get_midroll_
 ||youtube.com/pagead/
@@ -56159,10 +56190,6 @@ bizrate.com###slimBannerContainer
 mail.yahoo.com###slot_LREC
 mail.yahoo.com###slot_MB
 mail.yahoo.com###slot_REC
-connectionstrings.com###slot_bottom
-connectionstrings.com###slot_leftmenu
-connectionstrings.com###slot_top
-connectionstrings.com###slotfirstpage
 newsweek.com###slug_bigbox
 washingtonpost.com###slug_leaderboard
 sportsmole.co.uk###sm_shop
@@ -56180,8 +56207,6 @@ knowyourmeme.com###sonic
 sensis.com.au###southPfp
 stv.tv###sp-mpu-container
 aol.com###spA
-amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###sp_detail
-amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr###sp_detail2
 thedailygreen.com###sp_footer
 collegefashion.net###spawnsers
 searchenginejournal.com###spcat_ifr
@@ -57034,7 +57059,7 @@ hitfreegames.com,hwinfo.com,twogag.com##.ads2
 giveawayoftheday.com##.ads_wrap
 entrepreneur.com##.adsby
 about.com,bloomberg.com,borfast.com,cdrinfo.com,comesrilanka.com,dpivst.com,howmanyleft.co.uk,mysmartprice.com,nintandbox.net,nycity.today,over-blog.com,plurk.com,portugalresident.com,scitechdaily.com,sgentrepreneurs.com,techsupportalert.com,tolonews.com,wikihoops.com,wlds.com##.adsense
-search.b1.org##.adslabel
+addictivetips.com,search.b1.org##.adslabel
 animeid.com##.adspl
 cheapies.nz##.adstop
 gamerant.com##.adtester-container
@@ -57693,6 +57718,7 @@ playwinningpoker.com##.centban
 digit.in##.center-add
 port2port.com,privateproperty.co.za##.centerBanner
 siberiantimes.com##.centerBannerRight
+giveawayoftheday.com##.center_ab
 zippyshare.com##.center_reklamy
 sulekha.com##.centxt
 bitcoinmagazine.com##.cer-da
@@ -58108,6 +58134,8 @@ thestranger.com##.fish-butter
 mentalfloss.com##.fixed-footer-section
 techjunkie.com##.fixed-sidebar-fire-tv
 netdania.com##.fixed_footer_banner
+moonliteco.in##.flexAfter
+moonliteco.in##.flexBefore
 nepr.net##.flexslider
 bestgadgetry.com##.flipkart-wrapper
 mysuburbanlife.com##.flipp_module
@@ -60522,6 +60550,7 @@ slashdot.org##div > [style*="margin-bottom:"]:last-child
 businessinsider.in,teaparty.org##div > a[onclick]
 medicine.news,robotics.news##div > a[target="_blank"]
 blacklistednews.com##div > iframe
+www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws##.mf8UVb
 www.google.ac,www.google.ad,www.google.ae,www.google.al,www.google.am,www.google.as,www.google.at,www.google.az,www.google.ba,www.google.be,www.google.bf,www.google.bg,www.google.bi,www.google.bj,www.google.bs,www.google.bt,www.google.by,www.google.ca,www.google.cat,www.google.cd,www.google.cf,www.google.cg,www.google.ch,www.google.ci,www.google.cl,www.google.cm,www.google.co.ao,www.google.co.bw,www.google.co.ck,www.google.co.cr,www.google.co.id,www.google.co.il,www.google.co.in,www.google.co.jp,www.google.co.ke,www.google.co.kr,www.google.co.ls,www.google.co.ma,www.google.co.mz,www.google.co.nz,www.google.co.th,www.google.co.tz,www.google.co.ug,www.google.co.uk,www.google.co.uz,www.google.co.ve,www.google.co.vi,www.google.co.za,www.google.co.zm,www.google.co.zw,www.google.com,www.google.com.af,www.google.com.ag,www.google.com.ai,www.google.com.ar,www.google.com.au,www.google.com.bd,www.google.com.bh,www.google.com.bn,www.google.com.bo,www.google.com.br,www.google.com.by,www.google.com.bz,www.google.com.cn,www.google.com.co,www.google.com.cu,www.google.com.cy,www.google.com.do,www.google.com.ec,www.google.com.eg,www.google.com.et,www.google.com.fj,www.google.com.gh,www.google.com.gi,www.google.com.gt,www.google.com.hk,www.google.com.jm,www.google.com.jo,www.google.com.kh,www.google.com.kw,www.google.com.lb,www.google.com.ly,www.google.com.mm,www.google.com.mt,www.google.com.mx,www.google.com.my,www.google.com.na,www.google.com.ng,www.google.com.ni,www.google.com.np,www.google.com.om,www.google.com.pa,www.google.com.pe,www.google.com.pg,www.google.com.ph,www.google.com.pk,www.google.com.pr,www.google.com.py,www.google.com.qa,www.google.com.ru,www.google.com.sa,www.google.com.sb,www.google.com.sg,www.google.com.sl,www.google.com.sv,www.google.com.tj,www.google.com.tn,www.google.com.tr,www.google.com.tw,www.google.com.ua,www.google.com.uy,www.google.com.vc,www.google.com.ve,www.google.com.vn,www.google.cv,www.google.cz,www.google.de,www.google.dj,www.google.dk,www.google.dm,www.google.dz,www.google.ee,www.google.es,www.google.fi,www.google.fm,www.google.fr,www.google.ga,www.google.ge,www.google.gg,www.google.gl,www.google.gm,www.google.gp,www.google.gr,www.google.gy,www.google.hk,www.google.hn,www.google.hr,www.google.ht,www.google.hu,www.google.ie,www.google.im,www.google.iq,www.google.is,www.google.it,www.google.it.ao,www.google.je,www.google.jo,www.google.jp,www.google.kg,www.google.ki,www.google.kz,www.google.la,www.google.li,www.google.lk,www.google.lt,www.google.lu,www.google.lv,www.google.md,www.google.me,www.google.mg,www.google.mk,www.google.ml,www.google.mn,www.google.ms,www.google.mu,www.google.mv,www.google.mw,www.google.ne,www.google.ne.jp,www.google.ng,www.google.nl,www.google.no,www.google.nr,www.google.nu,www.google.pl,www.google.pn,www.google.ps,www.google.pt,www.google.ro,www.google.rs,www.google.ru,www.google.rw,www.google.sc,www.google.se,www.google.sh,www.google.si,www.google.sk,www.google.sm,www.google.sn,www.google.so,www.google.sr,www.google.st,www.google.td,www.google.tg,www.google.tl,www.google.tm,www.google.tn,www.google.to,www.google.tt,www.google.us,www.google.vg,www.google.vu,www.google.ws##div#main > div.D1fz0e
 mail.yahoo.com##div#msg-list .list-view .ml-bg:not(.list-view-item-container)
 vedbex.com##div.col-md-3 > [href="#"]
@@ -60593,6 +60622,7 @@ howtogeek.com##div[id^="purch"]
 target.com##div[id^="rr_promo_"]
 reddit.com##div[id^="sidebar-atf-"]
 reddit.com##div[id^="sidebar-btf-"]
+amazon.ca,amazon.co.uk,amazon.com,amazon.com.au,amazon.fr##div[id^="sp_detail"]
 yahoo.com##div[id^="tile-A"][data-beacon-url^="https://beap.gemini.yahoo.com/mbcsc?"]
 yahoo.com##div[id^="tile-mb-"]
 gsprating.com##div[onclick="window.open('http://www.nationvoice.com')"]
@@ -60970,14 +61000,18 @@ msn.com##.amazon
 msn.com##.dynamicRRWrapper
 msn.com##.extnativead
 msn.com##.extnativeaditem
+msn.com##.medianetintraarticlenativead
 msn.com##.nativeAd-DS-card1-1
 msn.com##.nativeadasideplaceholder
 msn.com##.nativeadserversidecontentmodule
+msn.com##.replacead23
 msn.com##.sameoab_ad_container
 msn.com##.widead
 msn.com##[href^="https://amzn.to/"]
+msn.com##a.nativead[target="_blank"]
 msn.com##a[href*=".booking.com/"]
 msn.com##a[href^="https://rover.ebay.com/"]
+msn.com##div[data-section-id="sponsored.stripe.shopping"]
 ! Bing
 bing.com###mm_pla
 bing.com###verticalads
@@ -62118,6 +62152,7 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 @@||player.anyclip.com/anyclip-widget/lre-widget/$script,domain=video.timeout.com|video.venturebeat.com|videos.heute.at
 @@||prebid.adnxs.com^$xmlhttprequest,domain=go.cnn.com
 @@||pro.myphotopipe.com/images/ProductSections/advert-$image,domain=myphotopipe.com
+@@||scrippsdigital.com/cms/videojs/$stylesheet,domain=scrippsdigital.com
 @@||securitytrails.com/app/api/domain/$~third-party,xmlhttprequest
 @@||static.ziffdavis.com/sitenotice/*/settings.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.c|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||static.ziffdavis.com/sitenotice/evidon-sitenotice-bundle.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.c|downdetector.ca|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
@@ -62517,7 +62552,8 @@ pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; 
 ! Google "Related Searches"
 @@||www.google.com/adsense/search/ads.js$domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 @@||www.google.com/adsense/search/async-ads.js$domain=webcrawler.com
-@@||www.google.com/afs/ads?*^channel=csa_use_rs^$subdocument
+@@||www.google.com/afs/ads?*^channel=csa_$subdocument
+@@||www.google.com/afs/ads?*^channel=month$subdocument
 @@||www.google.com/dp/ads^$subdocument,domain=1and1.com|1und1.de|gmx.ca|gmx.ch|gmx.co|gmx.es|gmx.fr|gmx.it|gmx.net|gmx.nl|gmx.se|web.de
 ! Gladly.io New Tab extension (https://tab.gladly.io/)
 @@||tab.gladly.io/newtab/|$document,subdocument
